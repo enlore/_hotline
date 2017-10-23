@@ -1,7 +1,8 @@
-#Photobomb
+# _hotline
 
-Capture SMS/MMS data sent to a phone number into a Dropbox folder.  Dropbox folder will contain one directory for each
-sender's phone number, which will amount to a log/store of messages and media.
+> A simple Twilio to Dropbox integration
+
+Capture SMS/MMS data sent to a Twilio phone number into a Dropbox folder.  Dropbox folder will contain one directory for each sender's phone number, which will amount to a log/store of messages and media.
 
 ## Installation (brief)
 1. Configure a Dropbox app and note the API token
